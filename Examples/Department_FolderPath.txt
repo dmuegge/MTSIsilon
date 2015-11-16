@@ -1,0 +1,6 @@
+Department,FolderPath
+HR,/ifs/data/HR
+Accounting,/ifs/data/Accounting
+Executive,/ifs/data/Executive
+Legal,/ifs/data/Legal
+HR,/ifs/data/windows
